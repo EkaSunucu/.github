@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Our Software Website [Eka Sunucu](ekasunucu.com)
+- 🔭 Our Software Website [Eka Sunucu](https://www.ekasunucu.com)
 
-- 👯 Our SMM Website [Eka Yazılım](ekayazilim.com.tr)
+- 👯 Our SMM Website [Eka Yazılım](https://www.ekayazilim.com.tr)
 
-- 🤝 I’m looking for help with [Eka Market](eka.market)
+- 🤝 I’m looking for help with [Eka Market](https://www.eka.market)
 
 - 📫 How to reach me **info@ekasunucu.com**
 
