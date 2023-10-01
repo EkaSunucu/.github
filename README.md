@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Eka Sunucu](ekasunucu.com)
+- 🔭 Our Software Website [Eka Sunucu](ekasunucu.com)
 
-- 👯 I’m looking to collaborate on [Eka Yazılım](ekayazilim.com.tr)
+- 👯 Our SMM Website [Eka Yazılım](ekayazilim.com.tr)
 
 - 🤝 I’m looking for help with [Eka Market](eka.market)
 
